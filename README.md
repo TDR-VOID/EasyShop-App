@@ -4,7 +4,7 @@
 
 
 ## Features
-- **eg1** content.
+- **User Authentication** content.
 
 
 ## Screenshots
