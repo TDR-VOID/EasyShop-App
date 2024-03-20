@@ -5,6 +5,10 @@
 
 ## Features
 - **User Authentication:** content.
+- **Notify items are available or not:** content.
+- **Notify when the lst is ready:** content.
+- **Customers can see past lists:** content.
+- **Stock management:** content.
 
 
 ## Screenshots
