@@ -4,7 +4,7 @@
 
 
 ## Features
-- **User Authentication** content.
+- **User Authentication:** content.
 
 
 ## Screenshots
