@@ -4,7 +4,7 @@
 
 <details>
 <summary>Welcome Page</summary>
-<img src="screenshots/Login Page.jpg" alt = "Welcome Page" width ="300" style="padding-top:10px/>
+<img src="screenshots/Login Page.jpg" alt="Welcome Page" width="300" style="padding-top:10px"/>
 </details>
 
 <details>
