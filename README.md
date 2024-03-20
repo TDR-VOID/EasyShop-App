@@ -1,5 +1,12 @@
 # EasyShop-App
 
+## Overview
+
+
+## Features
+- **eg1** content.
+
+
 ## Screenshots
 
 <details>
@@ -39,3 +46,11 @@
 <summary>App Icon View</summary>
 <img src="screenshots/App Icon View.jpg" alt = "App Icon View" width ="300"/>
 </details>
+
+
+
+## Acknowledgement
+- [Android Studio](https://developer.android.com/)
+- [Firebase](https://firebase.google.com/)
+  
+
