@@ -72,7 +72,7 @@ The app was developed using **Android Studio**. **Firebase Realtime Database** w
 - Ability to send messages to users via the Firebase Messaging feature (FCM).
 - Messages will be sent to users even if they are not using the app (push notification).
 <details>
-<summary>Customer Advantages ↓</summary>
+<summary>Shop Owner Advantages ↓</summary>
 <img src="screenshots/Shop Owner Advantages.png" alt = "Shop Owner Advantages" width ="300"/>
 </details>
   
