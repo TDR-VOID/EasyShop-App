@@ -1,4 +1,5 @@
 # EasyShop-App
+<br/>
 
 ## Overview
 "EasyShop" mobile application is designed specifically for residents of rural areas who rely on local village shops for their monthly essentials. 
@@ -11,7 +12,6 @@ The app was developed using **Android Studio**. **Firebase Realtime Database** w
 - **Customers can view and manage past lists**
 - **Easy handling of customers through the database**
 
-<br/>
 <br/>
 
 ## Screenshots
@@ -54,6 +54,7 @@ The app was developed using **Android Studio**. **Firebase Realtime Database** w
 <img src="screenshots/App Icon View.jpg" alt = "App Icon View" width ="300"/>
 </details>
 
+<br/>
 
 ## Advantages of EasyShop App
 ### Customer Advantages:
@@ -77,7 +78,10 @@ The app was developed using **Android Studio**. **Firebase Realtime Database** w
 <summary>Shop Owner Advantages ↓</summary>
 <img src="screenshots/Shop Owner Advantages.png" alt = "Shop Owner Advantages" width ="300"/>
 </details>
-  
+
+<br/>
+<br/>
+
 ## Acknowledgement
 - [Android Studio](https://developer.android.com/)
 - [Firebase](https://firebase.google.com/)
