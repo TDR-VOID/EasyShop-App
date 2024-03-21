@@ -13,6 +13,7 @@ The app was developed using **Android Studio**. **Firebase Realtime Database** w
 
 <br/>
 <br/>
+
 ## Screenshots
 
 <details>
