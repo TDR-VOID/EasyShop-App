@@ -5,11 +5,10 @@
 Customers can effortlessly send their weekly or monthly shopping lists directly to their preferred shopkeepers. Users receive notifications and alerts from the shop, and can also access and manage their past shopping lists directly through the application.
 
 ## Features
-- **User Authentication:**
-- **Notify items are available or not:**
-- **Notify when the list is ready:** 
-- **Customers can see past lists:** 
-- **Stock management:**
+- **User Authentication**
+- **Notoficationa and alert messages through the app** 
+- **Customers can see and manage past lists**
+- **Easy to handle customers through database**
 
 
 ## Screenshots
