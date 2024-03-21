@@ -11,7 +11,8 @@ The app was developed using **Android Studio**. **Firebase Realtime Database** w
 - **Customers can view and manage past lists**
 - **Easy handling of customers through the database**
 
-
+<br/>
+<br/>
 ## Screenshots
 
 <details>
