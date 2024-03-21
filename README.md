@@ -61,7 +61,7 @@ Customers can effortlessly send their weekly or monthly shopping lists directly 
 - Users receive a notification if the shop is closed for a specific reason or any other important notification regarding the shop.
   
 <details>
-<summary>Customer Advantages</summary>
+<summary>Customer Advantages ↓</summary>
 <img src="screenshots/Customer Advantages.png" alt = "Customer Advantages" width ="300"/>
 </details>
   
@@ -71,7 +71,7 @@ Customers can effortlessly send their weekly or monthly shopping lists directly 
 - Ability to send messages to users via the Firebase Messaging feature (FCM).
 - Messages will be sent to users even if they are not using the app (push notification).
 <details>
-<summary>Customer Advantages</summary>
+<summary>Customer Advantages ↓</summary>
 <img src="screenshots/Shop Owner Advantages.png" alt = "Shop Owner Advantages" width ="300"/>
 </details>
   
