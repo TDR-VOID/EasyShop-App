@@ -7,8 +7,8 @@ Customers can effortlessly send their weekly or monthly shopping lists directly 
 ## Features
 - **User Authentication**
 - **Notoficationa and alert messages through the app** 
-- **Customers can see and manage past lists**
-- **Easy to handle customers through database**
+- **Customers can view and manage past lists**
+- **Easy handling of customers through the database**
 
 
 ## Screenshots
@@ -52,6 +52,18 @@ Customers can effortlessly send their weekly or monthly shopping lists directly 
 </details>
 
 
+## Advantages of EasyShop App
+# Customer Benefits:
+- Users can easily add items to the list, send it to the shop, and delete items as needed.
+- When the order is ready, the colour of the list changes, making it easy to identify prepared lists.
+- Users can conveniently review their previously ordered shopping lists.
+- Users receive a notification when the shopping list is ready.
+- Users receive a notification if the shop is closed for a specific reason or for any other important notifications regarding the shop.
+
+# Shop Owner Benefits:
+- Easy management of customers through the database.
+- Ability to send messages to users via the Firebase Messaging feature (FCM).
+- Messages will be sent to users even if they are not using the app (push notification).
 
 ## Acknowledgement
 - [Android Studio](https://developer.android.com/)
