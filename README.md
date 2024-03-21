@@ -4,11 +4,11 @@
 
 
 ## Features
-- **User Authentication:** content.
-- **Notify items are available or not:** content.
-- **Notify when the lst is ready:** content.
-- **Customers can see past lists:** content.
-- **Stock management:** content.
+- **User Authentication:**
+- **Notify items are available or not:**
+- **Notify when the list is ready:** 
+- **Customers can see past lists:** 
+- **Stock management:**
 
 
 ## Screenshots
