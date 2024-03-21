@@ -4,6 +4,7 @@
 "EasyShop" mobile application is designed specifically for residents of rural areas who rely on local village shops for their monthly essentials. 
 Customers can effortlessly send their weekly or monthly shopping lists directly to their preferred shopkeepers. Users receive notifications and alerts from the shop, and can also access and manage their past shopping lists directly through the application.
 
+The app was developed using **Android Studio**. **Firebase Realtime Database** was utilized to store data, and **Firebase Authentication** was used for user authentication.
 ## Features
 - **User Authentication**
 - **Notoficationa and alert messages through the app** 
