@@ -53,8 +53,8 @@ The app was developed using **Android Studio**. **Firebase Realtime Database** w
 </details>
 
 
-# Advantages of EasyShop App
-## Customer Advantages:
+## Advantages of EasyShop App
+### Customer Advantages:
 - Users can easily add items to the list, send it to the shop, and delete items as needed.
 - When the order is ready, the colour of the list changes, making it easy to identify prepared lists.
 - Users can conveniently review their previously ordered shopping lists.
@@ -67,7 +67,7 @@ The app was developed using **Android Studio**. **Firebase Realtime Database** w
 </details>
   
 
-## Shop Owner Advantages:
+### Shop Owner Advantages:
 - Easy management of customers through the database.
 - Ability to send messages to users via the Firebase Messaging feature (FCM).
 - Messages will be sent to users even if they are not using the app (push notification).
