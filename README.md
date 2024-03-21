@@ -1,7 +1,8 @@
 # EasyShop-App
 
 ## Overview
-
+"EasyShop" mobile application is designed specifically for residents of rural areas who rely on local village shops for their monthly essentials. 
+Customers can effortlessly send their weekly or monthly shopping lists directly to their preferred shopkeepers. Users receive notifications and alerts from the shop, and can also access and manage their past shopping lists directly through the application.
 
 ## Features
 - **User Authentication:**
