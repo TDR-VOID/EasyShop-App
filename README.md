@@ -43,6 +43,11 @@ The app was developed using **Android Studio**. **Firebase Realtime Database** w
 </details>
 
 <details>
+<summary>List View Page</summary>
+<img src="screenshots/List View Page.jpg" alt = "List View Page" width ="300"/>
+</details>
+
+<details>
 <summary>Notification Page</summary>
 <img src="screenshots/Notification 1.jpg" alt = "Notification Page" width ="300"/>
 <img src="screenshots/Notification 2.jpg" alt = "Notification Page" width ="300"/>
