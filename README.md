@@ -88,5 +88,10 @@ The app was developed using **Android Studio**. **Firebase Realtime Database** w
 ## Acknowledgement
 - [Android Studio](https://developer.android.com/)
 - [Firebase](https://firebase.google.com/)
-  
+
+
+
+## License
+
+[MIT License](LICENSE)
 
